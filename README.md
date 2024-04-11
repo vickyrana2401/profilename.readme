@@ -1,4 +1,4 @@
-# vickyrana2401.readme
+# vickyrana2401
 # 💫 About Me:
 🔭 I’m currently working on java project<br>🤝 I’m looking for help with Java Development Internships<br>🌱 I’m currently learning Java & Competitive Programming<br>⚡ Fun fact: Always ready to learn new technologies
 
